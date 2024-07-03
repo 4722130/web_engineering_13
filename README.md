@@ -1,4 +1,5 @@
 # KPOP女性アイドルグループ
 
--TWICE
+ -TWICE
+ -aespa
 
